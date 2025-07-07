@@ -1,6 +1,6 @@
 # Skyscope Sentinel AI App Builder
 
-[![AI-Powered Full-Stack Web Development in the Browser](./public/social_preview_index.png)
+![AI-Powered Full-Stack Web Development in the Browser](./public/social_preview_index.jpg)
 
 Skyscope Sentinel AI App Builder developed by Miss Casey Jay Topojani allows you to choose the LLM that you use for each prompt from API or local Ollama AI model! Options include OpenAI, Anthropic, Ollama, OpenRouter, Gemini, LMStudio, Mistral, xAI, HuggingFace, DeepSeek, or Groq models - and it is easily extended to use any other model supported by the Vercel AI SDK! 
 
